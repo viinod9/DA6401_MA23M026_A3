@@ -55,12 +55,13 @@ pip install wandb
 ``bash
 cd without_attention
 python ma23m026-a3-da6401.py```
+
 ### 4. Run the attention-based model
 ``bash
 cd with_attention
-python ma23m026-a3-da6401-attention.py```
+python ma23m026-a3-da6401-attention.py
 Ensure that the dataset is placed at the following path:
-```/kaggle/input/dakshina-dataset/dakshina_dataset_v1.0/hi/lexicons/```
+/kaggle/input/dakshina-dataset/dakshina_dataset_v1.0/hi/lexicons/```
 
 ### 5. Evaluation
 Metric: Accuracy based on exact sequence match between prediction and reference.
