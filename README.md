@@ -101,6 +101,12 @@ All experiments and tuning were done using only training and validation data.
 
 Code is cleanly organized, with support for both notebooks and scripts.
 
+### WandB Link
+
+```
+https://wandb.ai/viinod9-iitm/Assignment-3/reports/MA23M026_DA6401_Assignment3--VmlldzoxMjQ4NDE2Ng
+```
+
 ### GitHub Submission
 GitHub Repository:
 
