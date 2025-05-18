@@ -43,8 +43,8 @@ This folder extends the vanilla model by integrating an attention mechanism into
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/da6401_assignment3.git
-cd da6401_assignment3
+git clone https://github.com/viinod9/DA6401_MA23M026_A3.git
+cd DA6401_MA23M026_A3
 ```
 
 ### 2. Install dependencies
