@@ -105,8 +105,7 @@ Code is cleanly organized, with support for both notebooks and scripts.
 GitHub Repository:
 
 ```
-[https://github.com/<your-username>/da6401_assignment3
-<viinod9>](https://github.com/viinod9/DA6401_MA23M026_A3)
+https://github.com/viinod9/DA6401_MA23M026_A3
 ```
 
 ### Contribution Policy
