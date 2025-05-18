@@ -49,7 +49,7 @@ cd DA6401_MA23M026_A3
 
 ### 2. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install wandb 
 ```
 ### 3. Run the vanilla model (without attention)
 ``bash
