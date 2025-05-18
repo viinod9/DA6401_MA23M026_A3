@@ -109,6 +109,8 @@ Code is cleanly organized, with support for both notebooks and scripts.
 https://wandb.ai/viinod9-iitm/Assignment-3/reports/MA23M026_DA6401_Assignment3--VmlldzoxMjQ4NDE2Ng
 ```
 
+https://wandb.ai/viinod9-iitm/Assignment-3/reports/MA23M026_DA6401_Assignment3--VmlldzoxMjQ4NDE2Ng
+
 ### GitHub Submission
 GitHub Repository:
 
