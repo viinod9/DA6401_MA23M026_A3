@@ -6,7 +6,7 @@ This repository contains the implementation of a character-level sequence-to-seq
 
 ## Folder Structure
 
-### `without_attention/` (Questions 1 to 4)
+### `Without_Attention/` (Questions 1 to 4)
 This folder implements the vanilla seq2seq model using RNN/LSTM/GRU cells without attention.
 
 **Files Included:**
@@ -15,7 +15,7 @@ This folder implements the vanilla seq2seq model using RNN/LSTM/GRU cells withou
 - `predictions_without_attention.csv`: Final predictions from the vanilla model on the test set.
 - `README`: This file.
 
-### `with_attention/` (Questions 5 to 6)
+### `With_Attention/` (Questions 5 to 6)
 This folder extends the vanilla model by integrating an attention mechanism into the decoder.
 
 **Files Included:**
