@@ -1,4 +1,4 @@
-# Dakshina Transliteration Assignment — DA6401
+# Dakshina Transliteration Assignment 3 — DA6401
 
 This repository contains the implementation of a character-level sequence-to-sequence (seq2seq) transliteration model using the [Dakshina dataset](https://github.com/google-research-datasets/dakshina). The task is to transliterate Romanized Hindi words into Devanagari script.
 
@@ -122,3 +122,7 @@ All code is original and adheres to academic integrity guidelines.
 Contributions are fairly split and tracked via commit history.
 
 Code is well-commented and contains clear training and evaluation logic.
+
+### Author 
+VINOD KUMAR
+ROLL NO - MA23M026
