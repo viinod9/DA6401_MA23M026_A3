@@ -4,7 +4,7 @@ This repository contains the implementation of a character-level sequence-to-seq
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ### `without_attention/` (Questions 1 to 4)
 This folder implements the vanilla seq2seq model using RNN/LSTM/GRU cells without attention.
@@ -62,12 +62,12 @@ python ma23m026-a3-da6401-attention.py```
 Ensure that the dataset is placed at the following path:
 ```/kaggle/input/dakshina-dataset/dakshina_dataset_v1.0/hi/lexicons/```
 
-### Evaluation
+### 5. Evaluation
 Metric: Accuracy based on exact sequence match between prediction and reference.
 
 Model Comparison: Compared attention-based model with vanilla encoder-decoder.
 
-### Visualizations:
+### 6. Visualizations:
 
 wandb training/validation loss and accuracy plots
 
