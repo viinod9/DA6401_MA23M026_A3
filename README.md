@@ -69,9 +69,11 @@ Ensure that the dataset is placed at the following path:
 ```
 
 ### 5. Evaluation
-Metric: Accuracy based on exact sequence match between prediction and reference.
+##### Metric: 
+Accuracy based on exact sequence match between prediction and reference.
 
-Model Comparison: Compared attention-based model with vanilla encoder-decoder.
+#### Model Comparison: 
+Compared attention-based model with vanilla encoder-decoder.
 
 ### 6. Visualizations:
 
