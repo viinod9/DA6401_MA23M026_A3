@@ -9,7 +9,7 @@ This repository contains an implementation of a vanilla sequence-to-sequence (Se
 
 ```
 .
-├── ma23m026_a3_da6401_1.py           # Contains model, training utilities, and helper functions
+├── ma23m026_a3_da6401.py           # Contains model, training utilities, and helper functions
 ├── train_vanilla.py                  # Script to train vanilla Seq2Seq using argparse
 ├── predictions_without_attention.csv # Output predictions from the test set (generated)
 ├── README.md                         # This file
